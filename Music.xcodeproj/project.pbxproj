@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -258,7 +258,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0820;
-				ORGANIZATIONNAME = Tanisha;
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					CD19E0DD1CEEEDBC008096C7 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -284,7 +284,7 @@
 				};
 			};
 			buildConfigurationList = CD19E0D91CEEEDBC008096C7 /* Build configuration list for PBXProject "Music" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
